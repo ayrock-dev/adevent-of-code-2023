@@ -1,0 +1,12 @@
+
+{
+  "name": "@ayrock/advent-of-code-2023",
+  "author": "ayrock-dev",
+  "scripts": {
+    "start": "bun index.ts",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "vitest": "^0.34.6"
+  }
+}
